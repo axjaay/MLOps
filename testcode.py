@@ -1,1 +1,2 @@
-print("print maxxing")
+print("print maxxing of version 1")
+print("New feature maxing")
